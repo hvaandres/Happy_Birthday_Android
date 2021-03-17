@@ -25,7 +25,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="casual"
-        android:text="@string/happy_birthday_Giselle"
+        android:text="@string/happy_birthday_adrianna"
         android:textColor="@android:color/black"
         android:textSize="30sp"
         android:textStyle="bold"
