@@ -14,7 +14,8 @@
         android:importantForAccessibility="no"
         android:scaleType="centerCrop"
         app:srcCompat="@drawable/androidparty"
-        tools:layout_editor_absoluteX="0dp" />
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-69dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -24,7 +25,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="casual"
-        android:text="@string/happy_birthday_adrianna"
+        android:text="@string/happy_birthday_Giselle"
         android:textColor="@android:color/black"
         android:textSize="30sp"
         android:textStyle="bold"
